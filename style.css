@@ -1,0 +1,30 @@
+.header {
+  width: 100%;
+display: flex;
+background-color: #FFFFFF;
+font-family:'Roboto', sans-serif;
+margin: auto;
+}
+
+li {
+display: inline-block;
+list-style: none;
+padding: 20px;
+}
+
+a { 
+color: black;
+margin: 20px; ;
+font-size: 12px ;
+text-decoration: none;
+font: weight 500px;;
+}
+
+.blueLetters {
+color: #00ACDC;
+}
+.moyoLogo {
+  display: flex;
+  width: 40px;
+  height: 40px;
+}
